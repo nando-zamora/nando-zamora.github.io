@@ -1,4 +1,3 @@
-![Foto de perfil](foto.jpg)
 ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de análisis de datos.
 
 [Ver mi perfil de LinkedIn](https://www.linkedin.com/in/nando-zamora/) | [Escríbeme](mailto:zpnando@gmail.com)
