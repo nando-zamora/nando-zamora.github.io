@@ -1,19 +1,21 @@
 # Nando Zamora
 
-¡Hola! Te doy la bienvenida a mi portafolio de proyectos.
+¡Hola! Te doy la bienvenida a mi portafolio de proyectos de análisis de datos.
 
-[Ver mi perfil de GitHub](https://github.com/nando-zamora)
+[Ver mi perfil de LinkedIn](https://www.linkedin.com/in/nando-zamora/) | [Contáctame](zpnando@gmail.com)
 
 # Acerca de mí
 
-Escribe aquí 2-3 líneas sobre quién eres profesionalmente: tu carrera, tu experiencia y lo que te apasiona hacer.
+Soy [tu profesión, ej. "analista de datos" / "economista"] con experiencia en [ej. "extracción, limpieza y modelado de datos"]. Me apasiona [ej. "convertir datos en decisiones accionables para negocios"].
 
-### Habilidades técnicas
+### Herramientas técnicas
 
-- Herramienta 1
-- Herramienta 2
-- Herramienta 3
+- Excel
+- SQL
+- Python
+- R
+- Tableau / Power BI
 
-### Habilidades blandas
+### Proyectos destacados
 
-Habilidad 1 | Habilidad 2 | Habilidad 3
+Aquí iré agregando mis proyectos de análisis de datos con sus repositorios y conclusiones.
