@@ -16,7 +16,7 @@ Python (pandas, NumPy), SQL (PostgreSQL, MySQL), Power BI, Tableau, Estadística
 
 Análisis de datos, Resolución de problemas, Comunicación efectiva, Trabajo en equipo, Orientación a resultados, Organización, Proactividad, Atención al detalle, Optimización de Procesos
 
-### Proyectos destacados
+## Proyectos destacados
 
 ## Análisis de rentabilidad y retención — App de delivery
 
