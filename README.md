@@ -18,4 +18,6 @@ Análisis de datos, Resolución de problemas, Comunicación efectiva, Trabajo en
 
 ### Proyectos destacados
 
-Aquí iré agregando mis proyectos de análisis de datos con sus repositorios y conclusiones.
+**[Análisis de rentabilidad y retención — App de delivery](https://github.com/nando-zamora/analysis_deliveries)**
+
+Proyecto end-to-end de rentabilidad, funnel de conversión, retención de usuarios y test A/B para una app de delivery, con dashboard ejecutivo en Tableau. El negocio resultó rentable (~30% de margen), con el mayor cuello de botella en el paso de pago del checkout.
