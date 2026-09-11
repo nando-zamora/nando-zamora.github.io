@@ -92,7 +92,7 @@ Google Apps Script, Google Sheets, Tableau
 ### Visualizaciones destacadas
 
 1. **Matriz de ventas y liquidez (mes de venta vs. mes de check-in):**
-![Dashboard de liquidez](https://raw.githubusercontent.com/nando-zamora/liquidity-dashboard/main/dashboard_liquidez.png)
+![Dashboard de liquidez](https://raw.githubusercontent.com/nando-zamora/liquidity-dashboard/main/dliquidez.png)
 
 🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/hernando.zamora5276/viz/Liquidez_17891531474460/Dashboard1?publish=yes)
 
