@@ -55,6 +55,8 @@ Python (pandas, NumPy), SQL, pruebas de hipótesis estadísticas (Z-test), Table
 ![KPIs de rentabilidad](https://raw.githubusercontent.com/nando-zamora/analysis_deliveries/main/grafica_kpis_negocio.png)
 
 2. **Dashboard ejecutivo en Tableau:**
+
+
 ![Dashboard en Tableau](https://raw.githubusercontent.com/nando-zamora/analysis_deliveries/main/tableau_deliveries.png)
 
 🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/hernando.zamora/viz/Entrega2_17873387898950/Dashboard1?publish=yes)
