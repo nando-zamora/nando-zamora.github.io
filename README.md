@@ -53,6 +53,7 @@ Python (pandas, NumPy), SQL, pruebas de hipótesis estadísticas (Z-test), Table
 
 1. **KPIs de rentabilidad, top productos y gasto de marketing:**
 ![KPIs de rentabilidad](https://raw.githubusercontent.com/nando-zamora/analysis_deliveries/main/grafica_kpis_negocio.png)
+
 2. **Dashboard ejecutivo en Tableau:**
 ![Dashboard en Tableau](https://raw.githubusercontent.com/nando-zamora/analysis_deliveries/main/tableau_deliveries.png)
 
