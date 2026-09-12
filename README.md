@@ -97,3 +97,39 @@ Google Apps Script, Google Sheets, Tableau
 🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/hernando.zamora5276/viz/Liquidez_17891531474460/Dashboard1?publish=yes)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/nando-zamora/liquidity-dashboard).**
+
+## KPIs financieros — dashboard móvil en tiempo real
+
+Dashboard de indicadores financieros hoteleros diseñado específicamente para consulta desde celular, con actualización casi en tiempo real (ventana de 15 minutos) desde la fuente original de datos, y publicado como sitio web accesible desde la pantalla de inicio del teléfono.
+
+#### Herramientas
+
+Google Apps Script, Google Sheets, Tableau, HTML, Netlify
+
+### Preguntas clave
+
+1. ¿Cómo va el desempeño financiero del hotel comparado año contra año (YoY)?
+2. ¿Cuál es el ritmo de ventas actual (run rate) y qué tan cerca está la ocupación y el ADR de la meta?
+3. ¿Cuánto se ha cobrado y cuánto queda pendiente por cobrar?
+4. ¿Cómo hacer este panel accesible y fácil de consultar para stakeholders que lo revisan desde su celular?
+
+### Metodología
+
+- **Extracción y actualización:** pipeline PMS → Google Sheets vía Apps Script → Tableau, con refresco en ventanas de 15 minutos para mantener los datos casi en tiempo real.
+- **Diseño mobile-first:** el dashboard en Tableau fue diseñado específicamente en formato vertical para verse óptimamente en un celular.
+- **Publicación:** el tablero se embebió en una página HTML y se desplegó en Netlify, generando un sitio web público y ligero.
+- **Accesibilidad:** al ser un sitio web, permite crear un acceso directo en la pantalla principal del celular, funcionando de forma similar a una app.
+
+### Conclusiones y recomendaciones
+
+- El formato mobile-first facilita que los stakeholders consulten los KPIs financieros en cualquier momento, sin depender de una laptop.
+- La comparación año contra año (2025 vs. 2026) por mes permite identificar rápidamente meses de mejor o peor desempeño frente al año anterior.
+- Se recomienda mantener la ventana de actualización de 15 minutos para balancear "tiempo real" con la carga sobre la fuente de datos original.
+
+### Visualizaciones destacadas
+
+![Dashboard móvil de KPIs financieros](https://raw.githubusercontent.com/nando-zamora/financial-kpis-mobile-dashboard/main/dashboard_movil_kpis.jpeg)
+
+*Nota: este dashboard fue diseñado específicamente para formato móvil (vertical); no se incluye un link en vivo aquí, ya que verlo desde una computadora no refleja la experiencia real de uso.*
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/nando-zamora/financial-kpis-mobile-dashboard).**
